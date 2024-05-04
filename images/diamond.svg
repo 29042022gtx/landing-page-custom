@@ -1,0 +1,21 @@
+<svg
+    width="512"
+    height="512"
+    viewBox="0 0 512 512"
+    xmlns="http://www.w3.org/2000/svg"
+    >
+    <defs>
+        <style>
+            .ColorScheme-Text {
+                color: #eee;
+            }
+        </style>
+    </defs>
+    <g  
+        class="ColorScheme-Text"
+        fill="currentColor"
+        style="display:inline">
+        <path
+            d="M 256,0 A 256,256 0 0 1 0,256 256,256 0 0 1 256,512 256,256 0 0 1 512,256 256,256 0 0 1 256,0 Z" />
+    </g>
+</svg>
